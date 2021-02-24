@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+    background-color: #111111;
+    font-size: 25px;
+    font-family: "Roboto";
+}
+
+html,
+body,
+#root {
+  height: 100vh;
+}
+
+
+
+label{
+  color:#fff;
+  font-weight: bold;
+  padding-bottom:10px;
+  letter-spacing: 1.5px;
+  }
+
+  
